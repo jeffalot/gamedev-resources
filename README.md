@@ -1,7 +1,7 @@
 # Table of Contents
 
 
-## Color Theory
+## Color Palettes
 
 * http://dev.thi.ng/gradients/
 * http://iquilezles.org/www/articles/palettes/palettes.htm
