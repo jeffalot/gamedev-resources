@@ -1,6 +1,3 @@
-# Table of Contents
-
-
 ## Color Palettes
 
 * http://dev.thi.ng/gradients/
