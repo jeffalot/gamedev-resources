@@ -15,8 +15,9 @@
 
 ## Other Tools
 
-* [Aseprite](www.aseprite.org)
-* [SpriteStack.io](www.spritestack.io)
+* [Aseprite](http://www.aseprite.org)
+* [SpriteStack.io](https://spritestack.io/)
+* Pyxel Edit
 
 ## Networking
 
