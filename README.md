@@ -2,6 +2,7 @@
 
 * http://dev.thi.ng/gradients/
 * http://iquilezles.org/www/articles/palettes/palettes.htm
+* https://twitter.com/palitra_color
 
 ## Tutorials
 
