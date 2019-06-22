@@ -31,7 +31,13 @@
 
 ## Organizations
 
-## Events
+## East Coast Game Dev Events
+
+* Practice
+* GDoC
+* MagFest (MIVS)
+* ECGC
+* Smithsonian 
 
 ## Recording
 
