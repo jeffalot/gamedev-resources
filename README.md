@@ -32,8 +32,9 @@
 
 ## Organizations
 
-* RVA Game Jams
+* [RVA Game Jams](https://www.rvagamejams.com)
 * [International Game Developers Association (IGDA)](https://www.igda.org/)
+* [Portland Indie Game Squad (Pig Squad)](https://pigsquad.com/)
 
 ## East Coast Game Dev Events
 
