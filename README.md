@@ -30,9 +30,10 @@
 * [SpriteStack.io](https://spritestack.io/)
 * Pyxel Edit
 
-## Networking
-
 ## Organizations
+
+* RVA Game Jams
+* [International Game Developers Association (IGDA)](https://www.igda.org/)
 
 ## East Coast Game Dev Events
 
