@@ -40,7 +40,7 @@
 * GDoC
 * MagFest (MIVS)
 * [ECGC](http://ecgconf.com/)
-* Smithsonian 
+* [Smithsonian SAAM Arcade](https://americanart.si.edu/events/saam-arcade) Aug 3-4, 2019
 
 ## Recording
 
