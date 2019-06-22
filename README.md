@@ -36,7 +36,7 @@
 * Practice
 * GDoC
 * MagFest (MIVS)
-* ECGC
+* [ECGC](http://ecgconf.com/)
 * Smithsonian 
 
 ## Recording
