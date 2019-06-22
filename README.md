@@ -36,6 +36,8 @@
 * [International Game Developers Association (IGDA)](https://www.igda.org/)
 * [Portland Indie Game Squad (Pig Squad)](https://pigsquad.com/)
 
+* https://www.gamedevmap.com/index.php
+
 ## East Coast Game Dev Events
 
 * Practice
