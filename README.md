@@ -6,6 +6,8 @@
 
 ## Tutorials
 
+* How to Record Gif: https://www.theverge.com/2016/10/27/13404254/how-to-make-a-gif-best-apps-tools-giphy
+
 ## Game Engines
 
 * Game Builder
@@ -32,3 +34,7 @@
 ## Events
 
 ## Recording
+
+* [ScreenToGif](https://www.screentogif.com/)
+* GifBrewery (Mac-Only)
+* OBS
