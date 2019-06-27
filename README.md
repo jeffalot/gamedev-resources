@@ -20,6 +20,8 @@
 * Pico8
 * Voxeltron
 
+* [List of Game Engines - Wikipedia](https://en.wikipedia.org/wiki/List_of_game_engines)
+
 ## Frameworks / Libraries
 
 * AirConsole
