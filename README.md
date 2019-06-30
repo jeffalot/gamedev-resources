@@ -32,6 +32,7 @@
 * [Aseprite](http://www.aseprite.org)
 * [SpriteStack.io](https://spritestack.io/)
 * Pyxel Edit
+* Blender
 
 ## Organizations
 
