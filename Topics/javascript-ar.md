@@ -7,3 +7,7 @@
 * [three.js](https://threejs.org/)
 
    three.js is a WebGL framework for displaying 3D scenes on the web
+   
+### Three.js
+
+* http://davidscottlyons.com/threejs-intro/#slide-3
