@@ -53,6 +53,7 @@
 * MagFest (MIVS)
 * [ECGC](http://ecgconf.com/)
 * [Smithsonian SAAM Arcade](https://americanart.si.edu/events/saam-arcade) Aug 3-4, 2019
+* https://trello.com/b/CYaT01Jr/games-industry-events-calendar-powered-by-devsmarter
 
 ## Recording
 
