@@ -19,6 +19,8 @@
 * Bitsy
 * Pico8
 * Voxeltron
+* http://nodes.io/story/assets/visual-tools-landscape.pdf
+
 ---
 * [Most Popular Game Engines on Itch.io](https://boingboing.net/2018/07/17/the-most-popular-engines-for-i.html)
 * [List of Game Engines - Wikipedia](https://en.wikipedia.org/wiki/List_of_game_engines)
