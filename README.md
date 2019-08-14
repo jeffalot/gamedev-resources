@@ -59,6 +59,8 @@
 
 * https://www.gamedevmap.com/index.php
 
+* https://twitter.com/thatwouldbealex/status/1161551416755929089?s=19
+
 ## East Coast Game Dev Events
 
 * Practice
